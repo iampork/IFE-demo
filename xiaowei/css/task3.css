@@ -1,0 +1,57 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+#wrap{
+	background-color:#eee;
+	border:1px #999 solid;
+	margin: 20px;
+	overflow:hidden;
+    overflow:auto;
+    min-width: 500px;
+}
+#left{
+	float: left;;
+	width: 200px;
+	background-color: #fff;
+	height: 118px;
+	border:1px #999 solid;
+	margin: 20px;
+}
+.tlogo{
+	position: relative;
+	top:19px;
+	left: 20px;
+	background-color: red;
+	display: block;
+}
+.Tname{
+	position: relative;
+	bottom: 59px;
+	left: 120px;
+	font-size:16px;
+    display: inline-block; 
+}
+#center{
+    margin-top: 20px;
+    margin-left:240px;
+    margin-right: 160px;
+    background-color:#fff;
+    padding:20px;
+    border:1px solid #999;
+}
+#right{
+	top: 20px;
+	width: 120px;
+	float: right;
+	border:1px #999 solid;
+	margin: 20px;
+	background-color: #fff;
+}
+.elogo{
+	margin: 20px 20px 0px;
+	padding: 0px;
+}
+.llogo{
+	margin: 20px;
+}
